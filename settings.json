@@ -1,0 +1,5 @@
+{
+    "git.autoRepositoryDetection": true,
+    "git.repositoryScanMaxDepth": 1,
+    "git.autoRefresh": true
+}
